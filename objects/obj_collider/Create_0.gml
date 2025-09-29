@@ -1,0 +1,1 @@
+collisionIsEnabled = true
