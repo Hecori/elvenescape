@@ -1,1 +1,1 @@
-Main files
+Arquivos principais do jogo "Elven Escape"
