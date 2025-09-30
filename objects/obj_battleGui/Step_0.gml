@@ -26,7 +26,7 @@ if system.currentAction[1] = "target"{
 		
 	//Alvo escolhido
 	else if keyZ {
-			if system.currentAction[0] = "attack" system.currentAction[1] = "phase1"
+			if system.currentAction[0] = "attack" or system.currentAction[0] = "check" system.currentAction[1] = "phase1"
 			else if system.currentAction[0] = "skill" system.currentAction[1] = "phase2"}
 	}
 
